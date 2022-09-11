@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Georgian&display=swap');
+.nsg{
+  font-family: 'Noto Serif Georgian', serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Combo&display=swap');
+.combo{
+  font-family: 'Combo', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@700&display=swap');
+.qf{
+  font-family: 'Qwitcher Grypen', cursive;
+}
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&display=swap');
+.pfd{
+  font-family: 'Playfair Display', serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+.ub{
+  font-family: 'Ubuntu', sans-serif;
+}
